@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Yangbin Lin/Scenes/Yangbin Lin Game.unity
     guid: caafe23210a50ac4186c21f0c1b27ed7
+  - enabled: 1
+    path: Assets/Yanyun Qian/scene/Yanyun Qian Game.unity
+    guid: 7ab777a1cb5d1344bb0b2f9737c2ba2b
   m_configObjects: {}
