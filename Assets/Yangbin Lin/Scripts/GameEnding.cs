@@ -62,7 +62,7 @@ public class GameEnding : MonoBehaviour
             }
             else
             {
-                Application.Quit ();
+                SceneManager.LoadScene (0);
             }
         }
     }

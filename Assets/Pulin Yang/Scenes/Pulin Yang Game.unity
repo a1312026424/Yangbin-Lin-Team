@@ -404,7 +404,7 @@ MonoBehaviour:
   displayImageDuration: 1
   player: {fileID: 1298893126}
   exitBackgroundImageCanvasGroup: {fileID: 312810074}
-  exitAudio: {fileID: 0}
+  exitAudio: {fileID: 1821379620}
   caughtBackgroundImageCanvasGroup: {fileID: 1486402452}
   caughtAudio: {fileID: 1821379620}
 --- !u!65 &132735517
@@ -1290,7 +1290,7 @@ RectTransform:
   m_GameObject: {fileID: 399509693}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children:
   - {fileID: 686126523}
   m_Father: {fileID: 1646294988}
@@ -1298,7 +1298,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 369, y: 252}
+  m_AnchoredPosition: {x: 369, y: 382}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &419025186
@@ -2017,7 +2017,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 11}
+  m_AnchoredPosition: {x: 225, y: 41.8}
   m_SizeDelta: {x: 76.6411, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &686126524
@@ -2706,7 +2706,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1014569587}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.24, y: 0.1, z: -4.23}
+  m_LocalPosition: {x: 4.24, y: 0, z: -4.23}
   m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_Children: []
   m_Father: {fileID: 393592894}
@@ -6740,7 +6740,7 @@ RectTransform:
   m_GameObject: {fileID: 2111304091}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children:
   - {fileID: 758722886}
   - {fileID: 1157434009}
@@ -6749,7 +6749,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 369, y: 252}
+  m_AnchoredPosition: {x: 819, y: 445}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1951317308168904068

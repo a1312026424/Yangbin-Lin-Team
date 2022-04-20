@@ -125,7 +125,7 @@ public class NewBehaviourScript : MonoBehaviour
     }
     void OnAnimatorMove()
     {
-        m_Rigidbody.MovePosition(m_Rigidbody.position + m_Movement * 0.02f);
+        m_Rigidbody.MovePosition(m_Rigidbody.position + m_Movement * 0.04f);
         m_Rigidbody.MoveRotation(m_Rotation);
     }
 }
