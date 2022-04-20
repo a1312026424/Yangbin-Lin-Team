@@ -1146,7 +1146,7 @@ RectTransform:
   m_GameObject: {fileID: 267615848}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children:
   - {fileID: 2124747374}
   m_Father: {fileID: 1164485873}
@@ -1154,7 +1154,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 35.71338}
+  m_AnchoredPosition: {x: 0, y: 99}
   m_SizeDelta: {x: 153.4285, y: 46.4285}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &267615850
@@ -1285,8 +1285,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -485.04333, y: -175.87878}
-  m_SizeDelta: {x: 688.6431, y: 402.3857}
+  m_AnchoredPosition: {x: -881.7, y: -405}
+  m_SizeDelta: {x: 1139.6318, y: 772.34}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &267623201
 MonoBehaviour:
@@ -1929,7 +1929,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &756779798
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2050,14 +2050,14 @@ RectTransform:
   m_GameObject: {fileID: 783037278}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1311766938}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -450, y: 37.499}
+  m_AnchoredPosition: {x: -796, y: 90}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &783037280
@@ -2272,7 +2272,7 @@ RectTransform:
   m_GameObject: {fileID: 813238096}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children:
   - {fileID: 139121831}
   m_Father: {fileID: 1164485873}
@@ -2280,7 +2280,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -33.28662}
+  m_AnchoredPosition: {x: 0, y: -56}
   m_SizeDelta: {x: 153.4285, y: 46.4285}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &813238098
@@ -2876,7 +2876,7 @@ RectTransform:
   m_GameObject: {fileID: 956151268}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children:
   - {fileID: 949462481}
   m_Father: {fileID: 1311766938}
@@ -2884,7 +2884,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 35.71338}
+  m_AnchoredPosition: {x: 0, y: 99}
   m_SizeDelta: {x: 153.4285, y: 46.4285}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &956151270
@@ -3721,8 +3721,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 452, y: 180.28662}
-  m_SizeDelta: {x: 165.4266, y: 140.6086}
+  m_AnchoredPosition: {x: 828.61, y: 394.54}
+  m_SizeDelta: {x: 262.7874, y: 287.8981}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1180517497
 GameObject:
@@ -3849,7 +3849,7 @@ RectTransform:
   m_GameObject: {fileID: 1233169253}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1888919903}
   m_RootOrder: 0
@@ -4190,8 +4190,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 452, y: 180.29}
-  m_SizeDelta: {x: 165.42, y: 140.61}
+  m_AnchoredPosition: {x: 828.61, y: 394.54}
+  m_SizeDelta: {x: 262.7874, y: 287.8981}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1312215407 stripped
 GameObject:
@@ -4298,14 +4298,14 @@ RectTransform:
   m_GameObject: {fileID: 1315055411}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 1164485873}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -913, y: 36.71338}
+  m_AnchoredPosition: {x: -1589, y: 97.214}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1315055413
@@ -4415,6 +4415,10 @@ PrefabInstance:
     - target: {fileID: 7872623976622129199, guid: 39689ee729b6ce44caf6cdd97514b13b, type: 3}
       propertyPath: m_Range
       value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7872623976622129199, guid: 39689ee729b6ce44caf6cdd97514b13b, type: 3}
+      propertyPath: m_Intensity
+      value: 30
       objectReference: {fileID: 0}
     - target: {fileID: 7872623976622129199, guid: 39689ee729b6ce44caf6cdd97514b13b, type: 3}
       propertyPath: m_SpotAngle
@@ -5206,8 +5210,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -480.1627, y: -185.5221}
-  m_SizeDelta: {x: 806.8982, y: 429.5276}
+  m_AnchoredPosition: {x: -881.7, y: -392}
+  m_SizeDelta: {x: 1390.3062, y: 808.39}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1460922164
 MonoBehaviour:
@@ -5229,17 +5233,20 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'This is a game in which the player controls the character to avoid enemies
-    while collecting items to win. Players can press WASD to control the movement
-    of the character, press SPACE to control the character to jump, and move the
-    mouse to control the transformation of the character''s perspective. In this
-    game, players have two ways to win. The first is that players need to collect
-    enough collectibles to win. Second, the player can avoid the enemy and reach
-    the end to win.
+  m_text: '
+
+    This is a game in which the player controls the character to avoid
+    enemies while collecting items to win. Players can press WASD to control the
+    movement of the character, press SPACE to control the character to jump, and
+    move the mouse to control the transformation of the character''s perspective.
+    In this game, players have two ways to win. The first is that players need to
+    collect enough collectibles to win. Second, the player can avoid the enemy and
+    reach the end to win.
 
 
-    Static and dynamic enemies appear in the game, as well
-    as an enemy that continuously tracks the character. There will be background
+
+    Static and dynamic enemies appear in the game, as
+    well as an enemy that continuously tracks the character. There will be background
     music and sound effects in the game, the character will have footsteps, and special
     music will appear when the enemy is approaching. Each enemy will display the
     surveillance range. When the player is playing the game, he needs to avoid the
@@ -5272,8 +5279,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 23
-  m_fontSizeBase: 23
+  m_fontSize: 40
+  m_fontSizeBase: 40
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -6607,8 +6614,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -33.28662}
-  m_SizeDelta: {x: 153.4285, y: 46.4285}
+  m_AnchoredPosition: {x: 0, y: -57.177734}
+  m_SizeDelta: {x: 311.8885, y: 88.1723}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1888919904
 MonoBehaviour:
